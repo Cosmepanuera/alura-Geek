@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Marvel Iron Man Memoria Flash USB 128GB 64GB",
+      "precio": "50",
+      "imagen": "https://down-co.img.susercontent.com/file/2fe72b5489bfcf92cde92e060e53032e",
+      "id": "1"
+    },
+    {
+      "name": "Funko Thor Assemble (587) - Avengers (Marvel)*",
+      "precio": "50",
+      "imagen": "https://img.kwcdn.com/product/fancy/d43a6890-ce74-47c0-bc59-1a373e9ea37d.jpg?imageView2/2/w/800/q/70/format/webp",
+      "id": "2"
+    },
+    {
+      "name": "Llavero | Marvel Capitán América giratorio",
+      "precio": "50",
+      "imagen": "https://m.media-amazon.com/images/I/71ZnYRsGvHL._AC_UY1000_.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Figura Stan Lee Marvel Avengers",
+      "precio": "50",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_874368-MLA49568168815_042022-O.webp",
+      "id": "4"
+    },
+    {
+      "id": "7db5",
+      "name": "Avengers: End Game – Iron Man Mark - Escala 1/10",
+      "precio": "50",
+      "imagen": "https://acdn.mitiendanube.com/stores/001/396/387/products/avengers-endgame-bds-art-scale-statue-1-10-iron-man-mark-lxxxv-deluxe-version-iron-studios-91-35be570ee86277c49916249923848897-1024-1024.jpg"
+    },
+    {
+      "id": "9c33",
+      "name": "Figura Resina Captain América 30 cm",
+      "precio": "60",
+      "imagen": "https://www.stargeek.es/21784-home_default/figura-resina-captain-america-30-cm.jpg"
+    },
+    {
+      "id": "d6ce",
+      "name": "Marvel Spider-Man No Way Home Spider-Man ",
+      "precio": "45",
+      "imagen": "https://www.geicollectibles.com.ar/Imagenes/Productos/1434/main.jpg"
+    }
+  ]
+}

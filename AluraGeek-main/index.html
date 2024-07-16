@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Css/reset.css">
+    <link rel="stylesheet" href="./Css/style.css">
+    <title>Challenge Alura Geek</title>
+</head>
+<body>
+    <header>
+        <img class="header-img" src="./imagenes/Group4-logo-head.png" alt="logo">
+    </header>
+
+    <main class="main_container">
+        <section>
+            <h1 class="titulo-productos">Mis productos</h1>
+            <div class="products-container" data-product></div>
+        </section>
+    
+        <section>
+            <h1 class="agregar-titulo">Agregar Productos</h1>
+            <form class="form-container" data-form>
+                <label for="product-name">Nombre del producto</label>
+                <input id="product-name" data-name placeholder="Nombre del producto" type="text" required>
+                
+                <label for="product-price">Precio</label>
+                <input id="product-price" data-precio placeholder="Precio" type="text" required>
+                
+                <label for="product-image">URL de la imagen</label>
+                <input id="product-image" data-image placeholder="URL de la imagen" type="text" required>
+                
+                <div class="button-container">
+                    <button type="submit" class="button-submit">Enviar</button>
+                    <button type="reset" class="button-borrar">Limpiar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer class="footer-container">
+        <img src="imagenes/Group 2Logo.png" alt="logo">
+        <p>C©sme</p> Alura Latam 2024<br>
+    </footer>
+
+    <script type="module" src="JS/Controlles/main.js"></script>
+</body>
+</html>
